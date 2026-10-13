@@ -23,4 +23,4 @@ spec:
             - name: POSTGRES_PASSWORD
               value: postgres123
             - name: POSTGRES_DB
-              value: mydb
+              value: axion-db
